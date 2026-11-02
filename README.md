@@ -64,7 +64,7 @@ Al ejecutar la app **sin variables de entorno definidas**, aparece automáticame
 
 ## ✅ Requisitos previos
 
-- Java 17 o superior (recomendado Java 21 Corretto)
+- Java 25 o superior (recomendado Java 25 Corretto)
 - Maven — incluido en el proyecto como `mvnw`, no hace falta instalarlo
 - Git
 - IDE: IntelliJ IDEA, VS Code (con Extension Pack for Java) o Eclipse
@@ -203,7 +203,7 @@ predictor/
 
 | Capa | Tecnología |
 |------|------------|
-| Backend | Java 21 / Spring Boot 3.5.14 / Spring Data JPA |
+| Backend | Java 25 / Spring Boot 3.5.14 / Spring Data JPA |
 | Frontend | Thymeleaf + Bootstrap 5 |
 | BD local | H2 en memoria |
 | BD producción | MySQL 8.4 en AWS RDS (eu-west-1) |
